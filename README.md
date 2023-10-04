@@ -14,11 +14,11 @@ This is a Node.js application using Express.js and Lodash to provide blog analyt
 SECRET=<Your Admin Secret>`
 4. Start the server
 `node app.js`
-**Example Response:**
-![Screenshot 2023-10-04 224945](https://github.com/trishbatra/assignment-/assets/97588299/1141872d-ffbf-4bc1-b478-afd4aeb3af24)
 ## Endpoints
 1. **GET /api/blog-stats**
-2. GET /api/blog-search
+2. **Example Response:**
+![Screenshot 2023-10-04 224945](https://github.com/trishbatra/assignment-/assets/97588299/1141872d-ffbf-4bc1-b478-afd4aeb3af24)
+3. GET /api/blog-search
 + Searches for blogs based on a provided query.
   `/api/blog-search?search=save money`
 **Example Response:**
